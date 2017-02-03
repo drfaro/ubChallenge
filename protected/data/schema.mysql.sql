@@ -1,3 +1,6 @@
+CREATE DATABASE `provaubook`;
+
+USE `provaubook`;
 
 CREATE TABLE `urls`(
     `id` INT NOT NULL AUTO_INCREMENT ,
